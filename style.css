@@ -83,3 +83,11 @@ body{
     color:var(--container-background);
 
 }
+
+
+
+@media (max-width:380px) {
+    .container{
+        width:80%;
+    }
+}
